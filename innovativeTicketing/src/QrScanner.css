@@ -1,0 +1,22 @@
+.qr-scanner-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.5s ease;
+  }
+  
+  .qr-scanner-title {
+    font-family: 'FarTwoLight2op', serif;
+    font-size: 36px;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .qr-scanner-instructions {
+    font-family: 'RotisSemiSerifBold', sans-serif;
+    font-size: 18px;
+    color: white;
+  }
+  
